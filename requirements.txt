@@ -1,8 +1,9 @@
-google-generativeai
-chromadb
-streamlit
-python-docx
-pypdf
-python-dotenv
-tqdm
-numpy
+streamlit==1.48.1
+google-generativeai==0.8.5
+chromadb==0.5.23
+onnxruntime==1.19.2
+python-docx==1.2.0
+pypdf==6.0.0
+python-dotenv==1.1.1
+tqdm==4.67.1
+numpy==2.3.2
